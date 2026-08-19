@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Bulk_SMS_Sender_Pro/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 990,
+          "line": 26
+        },
+        "start": {
+          "column": 0,
+          "index": 990,
+          "line": 26
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Bulk_SMS_Sender_Pro/app/src/main/AndroidManifest.xml"
+}
